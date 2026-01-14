@@ -119,7 +119,7 @@
 
   <div class="box">
     <ul>
-      <li>📱 <strong>Text or Call:</strong> 289-XXX-XXXX</li>
+      <li>📱 <strong>Text or Call:</strong> 289-228-6925</li>
       <li>📧 <strong>Email:</strong> emgoldsworthy@yahoo.com</li>
       <li>📸 <strong>tiktok:</strong> @mamashark1619</li>
     </ul>
